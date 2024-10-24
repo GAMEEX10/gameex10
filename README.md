@@ -1,9 +1,10 @@
 ## Hi there 👋 ,I'm Shair A.Elsayed. 
 
-  Computer Scientist & Software Engineer.
+- 🔭 Computer Scientist & Software Engineer.
 - 🔭 I’m currently working on Ui/UX
 - 🌱 I’m currently learning Requirmments Engineering
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gameex10&theme=dark&show_icons=true)
   
 <!--
 **GAMEEX10/gameex10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
